@@ -1,0 +1,22 @@
+﻿
+
+
+
+What libraries did I use in my project?
+
+
+
+
+
+
+
+
+
+
+In this project,
+
+
+
+
+ I used the following libraries: 1.pandas
+2.numpy 3.matplotlib 4.seaborn 5.StandardScaler 6.train_test_split.
